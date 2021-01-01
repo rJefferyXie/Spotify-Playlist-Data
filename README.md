@@ -4,8 +4,8 @@ This was a personal project where I learned how to use the open spotify API (spo
 # Requirements and Installation 
 **Required Modules**
 * To install, simply enter these commands into your terminal. (for macOS users, replace pip with pip3)
-* *pip install spotipy*
-* *pip install spotipy.oauth2*
+  * *pip install spotipy*
+  * *pip install spotipy.oauth2*
 
 **Setting up Repository**
 * To clone repository, press the green "Code" button, and copy the HTTPS to your clipboard.
